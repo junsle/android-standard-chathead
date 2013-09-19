@@ -8,7 +8,7 @@ please make a pull request anytime if you have any improvements or bug fixes.
 Authors
 =========================
 
-Initial project by Do Yonghoon http://facebook.com/doyonghoon
+Initial project by Do Yonghoon magicdo7@gmail.com
 
 
 
