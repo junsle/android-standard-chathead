@@ -1,12 +1,26 @@
 android-standard-chathead
 =========================
+This project, Protoype for facebook-like chathead is an attempt to re-implement Chathead in a new feature of Facebook Messenger, it just figures out for floating a View on Android's Screen. I don't apply all features of Facebook's chathead for now, However I will apply add-on features someday such as nice animation.
+
+please make a pull request anytime if you have any improvements or bug fixes.
+
+
+Authors
+=========================
+
+Initial project by Do Yonghoon http://facebook.com/doyonghoon
+
+
+
+License
+=========================
 
 facebook-like chathead
 License
 
 (The MIT License)
 
-Copyright (c) 2013 Do Yonghoon http://facebook.com/doyonghoon
+Copyright (c) 2013 Do Yonghoon magicdo7@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
