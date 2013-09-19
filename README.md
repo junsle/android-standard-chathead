@@ -4,6 +4,10 @@ This project, Protoype for facebook-like chathead is an attempt to re-implement 
 
 please make a pull request anytime if you have any improvements or bug fixes.
 
+Screenshot
+=========================
+![Image](https://github.com/doyonghoon/android-standard-chathead/blob/master/screenshot1.png?raw=true)
+
 
 Authors
 =========================
